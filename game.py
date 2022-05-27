@@ -1,5 +1,5 @@
 import sys
-from level import *
+from level import Level
 from config import *
 
 class Game:

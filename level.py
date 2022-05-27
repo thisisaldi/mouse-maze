@@ -1,5 +1,5 @@
-import pygame, sys
-from path import *
+import pygame
+from path import Tile, Checkpoint, Startpoint
 from config import *
 
 class Level:
