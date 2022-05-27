@@ -1,4 +1,4 @@
-import sys
+import pygame, sys
 from level import Level
 from config import *
 
